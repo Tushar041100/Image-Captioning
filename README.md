@@ -26,7 +26,7 @@ This project aims to generate captions for images using a combination of Convolu
 - Provides evaluation metrics to assess the quality of generated captions.
 
 ## Project Structure
-Image-Captioning/ 
+Image-Captioning/\
 ├── .gitignore\ 
 ├── app.py\ 
 ├── Dataset/\ 
