@@ -27,21 +27,21 @@ This project aims to generate captions for images using a combination of Convolu
 
 ## Project Structure
 Image-Captioning/\
-├── .gitignore\ 
-├── app.py\ 
-├── Dataset/\ 
-│ ├── captions.txt\ 
-│ └── Images/\ 
-├── test-images/\ 
-├── LICENSE\ 
-├── models/\ 
-│ ├── feature_extractor.keras\ 
-│ ├── model.keras\ 
-│ └── tokenizer.pkl\ 
-├── Notebooks/\ 
-│ └── flickr8k-image-captioning-using-cnns-lstm.ipynb\ 
-├── README.md\ 
-├── requirements.txt\ 
+├── .gitignore\
+├── app.py\
+├── Dataset/\
+│ ├── captions.txt\
+│ └── Images/\
+├── test-images/\
+├── LICENSE\
+├── models/\
+│ ├── feature_extractor.keras\
+│ ├── model.keras\
+│ └── tokenizer.pkl\
+├── Notebooks/\
+│ └── flickr8k-image-captioning-using-cnns-lstm.ipynb\
+├── README.md\
+├── requirements.txt\
 └── venv/\
 
 ## Installation
