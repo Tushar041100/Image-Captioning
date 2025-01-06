@@ -15,6 +15,7 @@ Image Captioning project made using CNN & LSTM.
 - [Notebooks](#notebooks)
 - [Contributing](#contributing)
 - [License](#license)
+- [Reference Images](#reference-images)
 
 ## Introduction
 This project aims to generate captions for images using a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. The CNN is used to extract features from the images, and the LSTM is used to generate captions based on these features.
@@ -95,3 +96,11 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](http://_vscodecontentref_/5) file for details.
+
+## Reference Images
+
+Here are some reference images used in this project:
+![Home Page](images/HomePage.png)
+![Test Image-1](images/TestImage-1.png)
+![Test Image-2](images/TestImage-2.png)
+![Test Image-3](images/TestImage-3.png)
